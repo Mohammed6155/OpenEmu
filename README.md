@@ -3,7 +3,7 @@ OpenEmu
 
 ![alt text](http://openemu.org/img/intro-md.png "OpenEmu Screenshot")
 
-This is the reddit community for OpenEmu help and questions/answers. OpenEmu is about to change the world of video game emulation. For the first time, the "it just works" philosophy now extends to open source video game emulation on the Mac. With OpenEmu, it is easy to add, browse, organize and with a compatible gamepad, play those favorite games (ROMs) you already own.
+This is the Github forked repository for OpenEmu help and questions/answers. OpenEmu is about to change the world of video game emulation. For the first time, the "it just works" philosophy now extends to open source video game emulation on the Mac. With OpenEmu, it is easy to add, browse, organize and with a compatible gamepad, play those favorite games (ROMs) you already own.
 
 Currently, OpenEmu can load the following game engines as plugins:
 
